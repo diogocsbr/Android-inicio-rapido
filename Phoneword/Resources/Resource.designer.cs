@@ -3775,28 +3775,31 @@ namespace Phoneword
 			public const int TranslatedPhoneword = 2131230728;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int uniform = 2131230906;
+			public const int txtLerArquivo = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int unlabeled = 2131230907;
+			public const int uniform = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int up = 2131230908;
+			public const int unlabeled = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int useLogo = 2131230909;
+			public const int up = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int view_offset_helper = 2131230910;
+			public const int useLogo = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int visible = 2131230911;
+			public const int view_offset_helper = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int withText = 2131230912;
+			public const int visible = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int wrap_content = 2131230913;
+			public const int withText = 2131230913;
+			
+			// aapt resource value: 0x7F0800C2
+			public const int wrap_content = 2131230914;
 			
 			static Id()
 			{
